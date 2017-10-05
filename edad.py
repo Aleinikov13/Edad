@@ -1,5 +1,5 @@
 class Edad():
-
+#
 	def __init__(self):
 		self.resultado = 0
 
